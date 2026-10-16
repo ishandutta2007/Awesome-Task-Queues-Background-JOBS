@@ -2,7 +2,7 @@
 
 # Awesome-Task-Queues-Background-JOBS
 
-# Top Task Queues & Background Jobs Ecosystem
+## Top Task Queues & Background Jobs Ecosystem
 
 **Curated List of SaaS Products & Open-Source GitHub Projects**  
 *Focused on Durable Workflows, Distributed Task Processing & Background Job Orchestration*  
