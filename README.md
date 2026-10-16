@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Task-Queues-Background-JOBS/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Task-Queues-Background-JOBS?style=flat-square&logo=github&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Task-Queues-Background-JOBS/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Task-Queues-Background-JOBS?style=flat-square&logo=github&color=gold" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Task-Queues-Background-JOBS/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Task-Queues-Background-JOBS?style=flat-square&logo=github&color=blue" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Task-Queues-Background-JOBS/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Task-Queues-Background-JOBS?style=flat-square&color=green" alt="Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Task-Queues-Background-JOBS/pulls"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome" /></a>
@@ -69,75 +69,75 @@ Self-hosted open-source solutions provide complete data sovereignty, zero per-me
 
 The list below is **sorted descending by GitHub stargazer count**.
 
-- **[Celery](https://github.com/celery/celery)** [![GitHub stars](https://img.shields.io/github/stars/celery/celery?style=social&color=white)](https://github.com/celery/celery/stargazers)  
+- **[Celery](https://github.com/celery/celery)** [![GitHub_Stars](https://img.shields.io/github/stars/celery/celery?style=social&color=white)](https://github.com/celery/celery/stargazers)  
   *Language:* **Python** | *Brokers:* RabbitMQ, Redis, Amazon SQS  
   The de facto standard asynchronous distributed task queue for Python. Backed by a battle-tested BSD-3-Clause open-source codebase with no licensing fees. Powers large-scale production workloads across Django, Flask, FastAPI, and Pyramid. Features task retries, ETA/countdown scheduling, task canvas (chains, chords, groups), rate-limiting, and pluggable result backends.
 
-- **[Temporal](https://github.com/temporalio/temporal)** [![GitHub stars](https://img.shields.io/github/stars/temporalio/temporal?style=social&color=white)](https://github.com/temporalio/temporal/stargazers)  
+- **[Temporal](https://github.com/temporalio/temporal)** [![GitHub_Stars](https://img.shields.io/github/stars/temporalio/temporal?style=social&color=white)](https://github.com/temporalio/temporal/stargazers)  
   *Language:* **Go / Polyglot SDKs (Go, TypeScript, Python, Java, .NET, PHP)** | *Storage:* PostgreSQL, MySQL, Cassandra, SQLite  
   A modern durable execution engine for orchestrating microservices, long-running business workflows, and distributed transactions without manual state management. Workflows are authored as standard imperative code; Temporal automatically restores execution state after node failures, server reboots, or network partitions.
 
-- **[Trigger.dev](https://github.com/triggerdotdev/trigger.dev)** [![GitHub stars](https://img.shields.io/github/stars/triggerdotdev/trigger.dev?style=social&color=white)](https://github.com/triggerdotdev/trigger.dev/stargazers)  
+- **[Trigger.dev](https://github.com/triggerdotdev/trigger.dev)** [![GitHub_Stars](https://img.shields.io/github/stars/triggerdotdev/trigger.dev?style=social&color=white)](https://github.com/triggerdotdev/trigger.dev/stargazers)  
   *Language:* **TypeScript / Node.js** | *Storage:* PostgreSQL  
   Open-source background jobs framework designed for TypeScript developers. Solves serverless timeouts (e.g. Vercel 15s limit) by allowing long-running tasks without infrastructure lock-in. Includes automatic retries, real-time web dashboard, step-level observability, and support for AI prompt streaming.
 
-- **[Bull](https://github.com/OptimalBits/bull)** [![GitHub stars](https://img.shields.io/github/stars/OptimalBits/bull?style=social&color=white)](https://github.com/OptimalBits/bull/stargazers)  
+- **[Bull](https://github.com/OptimalBits/bull)** [![GitHub_Stars](https://img.shields.io/github/stars/OptimalBits/bull?style=social&color=white)](https://github.com/OptimalBits/bull/stargazers)  
   *Language:* **Node.js / JavaScript** | *Broker:* Redis  
   The classic, highly popular Redis-based task queue for Node.js. Features atomic operations via Redis Lua scripts, delayed jobs, scheduled cron jobs, parent-child job dependencies, concurrency limits per worker, and pause/resume capabilities.
 
-- **[RabbitMQ](https://github.com/rabbitmq/rabbitmq-server)** [![GitHub stars](https://img.shields.io/github/stars/rabbitmq/rabbitmq-server?style=social&color=white)](https://github.com/rabbitmq/rabbitmq-server/stargazers)  
+- **[RabbitMQ](https://github.com/rabbitmq/rabbitmq-server)** [![GitHub_Stars](https://img.shields.io/github/stars/rabbitmq/rabbitmq-server?style=social&color=white)](https://github.com/rabbitmq/rabbitmq-server/stargazers)  
   *Language:* **Erlang** | *Protocols:* AMQP 0-9-1, AMQP 1.0, MQTT 5.0, STOMP  
   The world's most widely deployed open-source multi-protocol message broker (MPL 2.0). Provides complex message routing (direct, topic, fanout, headers), message acknowledgments, quorum queues for high-availability clustering, dead-letter exchanges, and cross-datacenter federation.
 
-- **[Asynq](https://github.com/hibiken/asynq)** [![GitHub stars](https://img.shields.io/github/stars/hibiken/asynq?style=social&color=white)](https://github.com/hibiken/asynq/stargazers)  
+- **[Asynq](https://github.com/hibiken/asynq)** [![GitHub_Stars](https://img.shields.io/github/stars/hibiken/asynq?style=social&color=white)](https://github.com/hibiken/asynq/stargazers)  
   *Language:* **Go** | *Broker:* Redis  
   Simple, reliable, and efficient distributed task queue library for Go. Designed around Redis with minimal memory overhead. Features guaranteed at-least-once delivery, scheduled/delayed task execution, weighted priority queues, task deduplication, automatic retries with exponential backoff, and a dedicated CLI and web monitoring UI.
 
-- **[Sidekiq](https://github.com/sidekiq/sidekiq)** [![GitHub stars](https://img.shields.io/github/stars/sidekiq/sidekiq?style=social&color=white)](https://github.com/sidekiq/sidekiq/stargazers)  
+- **[Sidekiq](https://github.com/sidekiq/sidekiq)** [![GitHub_Stars](https://img.shields.io/github/stars/sidekiq/sidekiq?style=social&color=white)](https://github.com/sidekiq/sidekiq/stargazers)  
   *Language:* **Ruby / Rails** | *Broker:* Redis  
   The gold standard background job framework for Ruby on Rails. Uses multithreading to process thousands of jobs simultaneously in a single process, slashing memory consumption compared to multi-process alternatives. Open-source core provides basic queuing; commercial editions (Sidekiq Pro & Enterprise) offer reliable fetch, rate-limiting, and unique jobs.
 
-- **[RQ (Redis Queue)](https://github.com/rq/rq)** [![GitHub stars](https://img.shields.io/github/stars/rq/rq?style=social&color=white)](https://github.com/rq/rq/stargazers)  
+- **[RQ (Redis Queue)](https://github.com/rq/rq)** [![GitHub_Stars](https://img.shields.io/github/stars/rq/rq?style=social&color=white)](https://github.com/rq/rq/stargazers)  
   *Language:* **Python** | *Broker:* Redis  
   A lightweight, easy-to-learn Python library for queuing jobs and processing them in the background with worker processes. Built strictly on Redis, RQ features a minimal learning curve, clean codebase, delayed jobs, worker timeouts, and seamless integration with web frameworks.
 
-- **[BullMQ](https://github.com/taskforcesh/bullmq)** [![GitHub stars](https://img.shields.io/github/stars/taskforcesh/bullmq?style=social&color=white)](https://github.com/taskforcesh/bullmq/stargazers)  
+- **[BullMQ](https://github.com/taskforcesh/bullmq)** [![GitHub_Stars](https://img.shields.io/github/stars/taskforcesh/bullmq?style=social&color=white)](https://github.com/taskforcesh/bullmq/stargazers)  
   *Language:* **TypeScript / Node.js** | *Broker:* Redis / Redis Cluster  
   The modern rewrite and official successor to Bull, built from the ground up in TypeScript with support for Redis Cluster. Operates completely without polling to maintain near-zero idle CPU usage. Features parent-child job hierarchies, repeatable/cron jobs, manual step progression, rate limiters, token-based locks, and sandbox worker threads.
 
-- **[Hatchet](https://github.com/hatchet-dev/hatchet)** [![GitHub stars](https://img.shields.io/github/stars/hatchet-dev/hatchet?style=social&color=white)](https://github.com/hatchet-dev/hatchet/stargazers)  
+- **[Hatchet](https://github.com/hatchet-dev/hatchet)** [![GitHub_Stars](https://img.shields.io/github/stars/hatchet-dev/hatchet?style=social&color=white)](https://github.com/hatchet-dev/hatchet/stargazers)  
   *Language:* **Go, Python, TypeScript** | *Storage:* PostgreSQL, RabbitMQ  
   A distributed, fault-tolerant task queue and workflow engine designed to replace legacy message queues. Offers sub-second dispatch latencies, concurrency throttling, step-level DAG execution, cron scheduling, and deep real-time observability across services.
 
-- **[Faktory](https://github.com/contribsys/faktory)** [![GitHub stars](https://img.shields.io/github/stars/contribsys/faktory?style=social&color=white)](https://github.com/contribsys/faktory/stargazers)  
+- **[Faktory](https://github.com/contribsys/faktory)** [![GitHub_Stars](https://img.shields.io/github/stars/contribsys/faktory?style=social&color=white)](https://github.com/contribsys/faktory/stargazers)  
   *Language:* **Polyglot (Go server with Ruby, Python, Node, Go, Rust clients)** | *Storage:* RocksDB  
   Created by Mike Perham (author of Sidekiq), Faktory acts as a centralized background job server that speaks a simple JSON-over-TCP protocol. Allows any programming language to publish and consume background tasks through a single unified daemon.
 
-- **[Inngest Core](https://github.com/inngest/inngest)** [![GitHub stars](https://img.shields.io/github/stars/inngest/inngest?style=social&color=white)](https://github.com/inngest/inngest/stargazers)  
+- **[Inngest Core](https://github.com/inngest/inngest)** [![GitHub_Stars](https://img.shields.io/github/stars/inngest/inngest?style=social&color=white)](https://github.com/inngest/inngest/stargazers)  
   *Language:* **Go / TypeScript** | *Storage:* PostgreSQL, Redis  
   The open-source durable execution engine powering Inngest Cloud. Allows developers to write step functions, background queues, and delayed workflows locally without managing worker pools or server polling loops.
 
-- **[River](https://github.com/riverqueue/river)** [![GitHub stars](https://img.shields.io/github/stars/riverqueue/river?style=social&color=white)](https://github.com/riverqueue/river/stargazers)  
+- **[River](https://github.com/riverqueue/river)** [![GitHub_Stars](https://img.shields.io/github/stars/riverqueue/river?style=social&color=white)](https://github.com/riverqueue/river/stargazers)  
   *Language:* **Go** | *Storage:* PostgreSQL  
   Fast, modern background job queue for Go backed natively by PostgreSQL. Solves the dual-write problem by executing job enqueueing and database modifications inside the same database transaction. Features high-performance batch operations, LISTEN/NOTIFY low-latency dispatch, periodic jobs, and rescue handling.
 
-- **[Dramatiq](https://github.com/Bogdanp/dramatiq)** [![GitHub stars](https://img.shields.io/github/stars/Bogdanp/dramatiq?style=social&color=white)](https://github.com/Bogdanp/dramatiq/stargazers)  
+- **[Dramatiq](https://github.com/Bogdanp/dramatiq)** [![GitHub_Stars](https://img.shields.io/github/stars/Bogdanp/dramatiq?style=social&color=white)](https://github.com/Bogdanp/dramatiq/stargazers)  
   *Language:* **Python** | *Brokers:* RabbitMQ, Redis  
   A fast, high-throughput, and reliable alternative to Celery for Python 3. Prioritizes simplicity, thread-safety, lower memory overhead, and resilience against broker crashes. Provides automatic retries, rate limiters, and thread-based worker processes.
 
-- **[Oban](https://github.com/oban-bg/oban)** [![GitHub stars](https://img.shields.io/github/stars/oban-bg/oban?style=social&color=white)](https://github.com/oban-bg/oban/stargazers)  
+- **[Oban](https://github.com/oban-bg/oban)** [![GitHub_Stars](https://img.shields.io/github/stars/oban-bg/oban?style=social&color=white)](https://github.com/oban-bg/oban/stargazers)  
   *Language:* **Elixir** | *Storage:* PostgreSQL, SQLite  
   Robust background job processing for Elixir and the Phoenix framework, powered natively by PostgreSQL. Leverages PostgreSQL notifications and transactions to guarantee transactional job scheduling without external broker dependencies.
 
-- **[Laravel Workflow](https://github.com/durable-workflow/workflow)** [![GitHub stars](https://img.shields.io/github/stars/durable-workflow/workflow?style=social&color=white)](https://github.com/durable-workflow/workflow/stargazers)  
+- **[Laravel Workflow](https://github.com/durable-workflow/workflow)** [![GitHub_Stars](https://img.shields.io/github/stars/durable-workflow/workflow?style=social&color=white)](https://github.com/durable-workflow/workflow/stargazers)  
   *Language:* **PHP / Laravel** | *Broker:* Laravel Queue Drivers (Redis, SQS, DB)  
   Durable workflow engine for PHP powered directly by Laravel Queues, inspired by Temporal and Azure Durable Functions. Enables writing long-running, fault-tolerant business workflows with pause/resume and state durability inside standard Laravel apps.
 
-- **[Nuvom](https://github.com/nahom-zewdu/Nuvom)** [![GitHub stars](https://img.shields.io/github/stars/nahom-zewdu/Nuvom?style=social&color=white)](https://github.com/nahom-zewdu/Nuvom/stargazers)  
+- **[Nuvom](https://github.com/nahom-zewdu/Nuvom)** [![GitHub_Stars](https://img.shields.io/github/stars/nahom-zewdu/Nuvom?style=social&color=white)](https://github.com/nahom-zewdu/Nuvom/stargazers)  
   *Language:* **Python** | *Broker:* Brokerless / SQLite  
   Lightweight, plugin-first task queue for Python with zero external Redis or broker dependencies. Features native Windows compatibility, AST-based static task discovery, manifest caching, and Prometheus metrics integration.
 
-- **[Quebec](https://github.com/ratazzi/quebec)** [![GitHub stars](https://img.shields.io/github/stars/ratazzi/quebec?style=social&color=white)](https://github.com/ratazzi/quebec/stargazers)  
+- **[Quebec](https://github.com/ratazzi/quebec)** [![GitHub_Stars](https://img.shields.io/github/stars/ratazzi/quebec?style=social&color=white)](https://github.com/ratazzi/quebec/stargazers)  
   *Language:* **Python** | *Storage:* PostgreSQL  
   PostgreSQL-backed task queue for Python with automatic package-level job discovery, priority queues, delayed job execution, and an integrated web control dashboard running on `127.0.0.1:5006`.
 
@@ -165,8 +165,8 @@ Contributions from developers, platform engineers, and open-source maintainers a
 2. 🌿 **Create a branch** for your addition (`git checkout -b feature/add-new-queue`).
 3. 📝 **Add your entry** under either SaaS or Open-Source in alphabetical or relevant order:
    - Provide the tool name, project URL, and exact pricing/license.
-   - For open-source projects, include the star badge:  
-     `[![GitHub stars](https://img.shields.io/github/stars/<owner>/<repo>?style=social&color=white)](https://github.com/<owner>/<repo>/stargazers)`
+   - For open-source projects, include the Stars_Badge:  
+     `[![GitHub_Stars](https://img.shields.io/github/stars/<owner>/<repo>?style=social&color=white)](https://github.com/<owner>/<repo>/stargazers)`
 4. 🧪 Ensure all markdown links and formatting render cleanly.
 5. 🚀 **Submit a Pull Request** with a brief summary of the project.
 
